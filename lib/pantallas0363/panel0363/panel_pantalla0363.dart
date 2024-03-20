@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:gonzalez0363/pantallas0363/panel0363/widgets0363/item_productos0363.dart';
+import 'package:gonzalez0363/pantallas0363/panel0363/item_productos0363.dart';
 
 class PanelPantalla0363 extends StatelessWidget {
   const PanelPantalla0363({Key? key}) : super(key: key);
